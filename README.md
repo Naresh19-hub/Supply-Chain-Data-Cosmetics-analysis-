@@ -74,17 +74,17 @@ Insights (Inventory & Availability Analysis)
 
 3 What is the average lead time for restocking different products?
 - Skincare: Highest average lead time,
-Lead times vary by SKU, but most fall between 18 to 30 days, with several SKUs reaching the higher end (27–30 days), indicating a higher average lead time for this category.
+  Lead times vary by SKU, but most fall between 18 to 30 days, with several SKUs reaching the higher end (27–30 days), indicating a higher average lead time for this category.
 
 - Haircare : Moderate average lead time ,
-Lead times are generally more balanced, ranging from 10 to 29 days, suggesting a moderate average lead time.
+  Lead times are generally more balanced, ranging from 10 to 29 days, suggesting a moderate average lead time.
 
 - Cosmetics : Lowest average lead time.
-This category tends to have slightly shorter lead times, mostly ranging from 15 to 26 days, indicating a lower average lead time compared to skincare.
+  This category tends to have slightly shorter lead times, mostly ranging from 15 to 26 days, indicating a lower average lead time compared to skincare.
 
 4 Are there any products with long lead times but high demand?
 - Yes, several products such as SKU9, SKU14 (skincare), SKU12, SKU43 (haircare), and SKU35 (cosmetics) have both high demand and long lead times. 
-These products may face stockouts and require improved inventory planning or faster sourcing.
+  These products may face stockouts and require improved inventory planning or faster sourcing.
 
 5 How does availability affect revenue generation?
 - Availability has a minimal effect on revenue generation, as indicated by the very low R² value (0.0111). This suggests that higher availability does not strongly correlate with increased order quantities or revenue.
@@ -92,16 +92,16 @@ These products may face stockouts and require improved inventory planning or fas
 Insights (Customer Demographics & Behavior)
 1 Which customer segments buy the most products? (e.g., age, location)
 - Female customers in Bangalore purchase the most products overall, especially in the haircare segment.
-Kolkata and Chennai also show high purchase activity, particularly for skincare and cosmetics, led by female and unknown demographics.
+  Kolkata and Chennai also show high purchase activity, particularly for skincare and cosmetics, led by female and unknown demographics.
 
 2 Do customers in different locations prefer different product types?
 - Mumbai and Delhi prefer cosmetics the most.
-   Kolkata and Chennai show a strong preference for skincare.
-   Bangalore customers buy haircare products more than other types.
+  Kolkata and Chennai show a strong preference for skincare.
+  Bangalore customers buy haircare products more than other types.
 
 3 Is there a correlation between product price and customer demographics?
 - there is very weak relationship between product price and customer demographics  is R square value 0.0049
-   There is a very weak correlation between product price and customer demographics, as indicated by the low R² value of 0.0049. This suggests customer demographics do not significantly influence how products are priced or purchased.
+  There is a very weak correlation between product price and customer demographics, as indicated by the low R² value of 0.0049. This suggests customer demographics do not significantly influence how products are priced or purchased.
 
 4 Which products have the highest return or defect rates?
 - Skincare products have the highest return or defect rates, with 40 inspection failures and a defect rate of 93.39%, indicating significant quality concerns.
