@@ -48,8 +48,8 @@ ________________________________________
 ## Dashboard
 ![Screenshot 2025-04-29 172322](https://github.com/user-attachments/assets/35c28687-3edf-4ec1-8f7d-2a4f10991b45)
 
-## Project Insights
-Insights (Sales & Revenue Analysis)
+# Project Insights
+## Insights (Sales & Revenue Analysis)
 1 Which product type generates the highest revenue?
 - Skincare generates the highest revenue at ($ 241.6k )
 
@@ -65,7 +65,7 @@ Insights (Sales & Revenue Analysis)
 5 What is the relationship between price and sales volume? (Are expensive products selling more or less?)
 - There is a very weak positive relationship between price and sales volume, indicating that expensive products are not significantly selling more.
 
-Insights (Inventory & Availability Analysis)
+## Insights (Inventory & Availability Analysis)
 1 Which products frequently go out of stock?
 - SKU78 (haircare) products most out of stock 
 
@@ -85,7 +85,7 @@ Insights (Inventory & Availability Analysis)
 5 How does availability affect revenue generation?
 - Availability has a minimal effect on revenue generation, as indicated by the very low R² value (0.0111). This suggests that higher availability does not strongly correlate with increased order quantities or revenue.
 
-Insights (Customer Demographics & Behavior)
+## Insights (Customer Demographics & Behavior)
 1 Which customer segments buy the most products? (e.g., age, location)
 - Female customers in Bangalore purchase the most products overall, especially in the haircare segment.
   Kolkata and Chennai also show high purchase activity, particularly for skincare and cosmetics, led by female and unknown demographics.
@@ -102,7 +102,7 @@ Insights (Customer Demographics & Behavior)
 4 Which products have the highest return or defect rates?
 - Skincare products have the highest return or defect rates, with 40 inspection failures and a defect rate of 93.39%, indicating significant quality concerns.
 
-Insights (Shipping & Logistics Performance)
+## Insights (Shipping & Logistics Performance)
 1 What is the average shipping time for different locations?
 - Chennai has the highest average shipping time (6.00 days), while Bangalore has the lowest (5.28 days) among all locations.
 
@@ -118,7 +118,7 @@ Insights (Shipping & Logistics Performance)
 5 What are the most common routes used for shipping?
 - Route B is the most commonly used with 2066 orders, followed by Route A (1844), and then Route C (1012), indicating that Route B is the primary shipping route based on order volume.
 
-Insights (Manufacturing & Supplier Performance)
+## Insights (Manufacturing & Supplier Performance)
 1 Which supplier provides products with the best availability and lead times?
 - Supplier 4 provides the best combination of highest availability (57.94) and low lead time (15.22) among all suppliers.
 
