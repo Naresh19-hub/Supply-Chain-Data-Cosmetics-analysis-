@@ -74,13 +74,9 @@ Insights (Inventory & Availability Analysis)
 
 3 What is the average lead time for restocking different products?
 - Skincare: Highest average lead time,
-  Lead times vary by SKU, but most fall between 18 to 30 days, with several SKUs reaching the higher end (27–30 days), indicating a higher average lead time for this category.
-
-- Haircare : Moderate average lead time ,
-  Lead times are generally more balanced, ranging from 10 to 29 days, suggesting a moderate average lead time.
-
-- Cosmetics : Lowest average lead time.
-  This category tends to have slightly shorter lead times, mostly ranging from 15 to 26 days, indicating a lower average lead time compared to skincare.
+  Lead times vary by SKU, but most fall between 18 to 30 days, with several SKUs reaching the higher end (27–30 days), indicating a higher average lead time for this category.Haircare : Moderate average lead time ,
+  Lead times are generally more balanced, ranging from 10 to 29 days, suggesting a moderate average lead time.Cosmetics : Lowest average lead time.This category tends to have slightly shorter lead times, mostly ranging from 15 to 26 days, indicating a lower average 
+  lead time compared to skincare.
 
 4 Are there any products with long lead times but high demand?
 - Yes, several products such as SKU9, SKU14 (skincare), SKU12, SKU43 (haircare), and SKU35 (cosmetics) have both high demand and long lead times. 
