@@ -136,24 +136,24 @@ ________________________________________
 
 # Final Conclusion:
 ## To Improve Overall supply chain data (Cosmetics Analysis)
-1.Focus on Top Categories and SKUs
+1 Focus on Top Categories and SKUs
 - Expand Skincare and Haircare SKUs: Skincare leads in both sales and revenue. Haircare also shows high demand in specific regions (like Bangalore).
   Use SKU10 as a model: Analyze SKU10's success (pricing, marketing, availability) and replicate those strategies for other SKUs.
-2.Improve Inventory Management
+2 Improve Inventory Management
 - Prioritize high-demand SKUs: Especially skincare, haircare, and cosmetics with long lead times.
   Plan stock proactively: Since weak stock correlations exist, manual forecasting based on sale history is needed, not just stock levels.
   Avoid stockouts: Focus inventory planning efforts particularly on high-performing items.
-3.Optimize Quality and Returns
+3 Optimize Quality and Returns
 - Fix skincare product defects: Since skincare has high return rates, tighten quality checks and supplier monitoring before final packing.
   Work closely with Supplier 4: They offer good availability and low lead times even if costs are higher — use them strategically for important products.
-4.Strengthen Logistics and Delivery
+4 Strengthen Logistics and Delivery
 - Use Carrier B whenever possible: They are the most reliable and cost-effective with the fastest deliveries.
   Improve shipping to Chennai: Focus on logistics improvements for Chennai, where delivery times are highest.
   Route B optimization: Since it's the most used shipping route, regularly monitor and negotiate better rates or faster service for this route.
-5.Regional and Customer Strategy
+5 Regional and Customer Strategy
 - Target Bangalore females for haircare: Since they are strong buyers, focus marketing campaigns and discounts specifically for them.
   Demographics don't influence pricing: No need to create different pricing based on customer age/gender — focus pricing based on market behaviour only.
-6.Manufacturing Improvements
+6 Manufacturing Improvements
 - Speed up haircare production: It has the longest manufacturing times — maybe by working with faster suppliers or improving internal manufacturing processes.
   Balance manufacturing costs: Even if production cost is high (like for Supplier 4), if availability and quality are better, it can save losses later from stockouts and returns.
 
