@@ -134,8 +134,8 @@ ________________________________________
 5 What is the relationship between production volumes and availability?
 - The relationship between production volume and availability is very weak, as indicated by the very low R² value of 0.0025.
 
-## Final Conclusion:
-To Improve Overall supply chain data (Cosmetics Analysis)
+# Final Conclusion:
+## To Improve Overall supply chain data (Cosmetics Analysis)
 1.Focus on Top Categories and SKUs
 - Expand Skincare and Haircare SKUs: Skincare leads in both sales and revenue. Haircare also shows high demand in specific regions (like Bangalore).
   Use SKU10 as a model: Analyze SKU10's success (pricing, marketing, availability) and replicate those strategies for other SKUs.
